@@ -49,4 +49,4 @@ A Ruby scrip that accepts one argument and passes it to a regular expression tha
 A Ruby script that accepts one argument and passes it a regular expression that must only match capital letters
 
 ## Author
-Francesca Cantor
+mafabi kennedy

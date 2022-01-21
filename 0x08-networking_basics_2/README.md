@@ -15,4 +15,4 @@ File | Description
 3-show_attached_IPs | Bash script that displays all active IPv4 IPs on the machine it’s executed on
 
 ## Author
-Francesca Cantor
+mafabi kennedy

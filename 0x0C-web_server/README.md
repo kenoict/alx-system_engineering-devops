@@ -21,7 +21,7 @@
 * Inside server --> ```/usr/share/nginx/html/```  ;  ```/etc/nginx/sites-available/default```
 ### Environment
 * Language: Bash Scripts
-*
+* OS:  16.04 LTS
 * Styleguide: Shellcheck
 
 ---

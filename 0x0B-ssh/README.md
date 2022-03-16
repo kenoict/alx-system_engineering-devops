@@ -31,4 +31,4 @@ Task | Requirements
 2 | SSH configuration must be configured to use the private key ```~/.ssh/holberton```; SSH client configuration must be configured to refuse to authenticate using a password
 
 ## Author
-Francesca Cantor
+mafabi kennedy

@@ -16,4 +16,4 @@ File | Task
 1-install_load_balancer | Bash script that installs and configures HAproxy on the load-balancer
 
 ## Author
-Francesca Cantor
+mafabi ken
